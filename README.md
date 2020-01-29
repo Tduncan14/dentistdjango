@@ -1,0 +1,2 @@
+# dentistdjango
+usesdjango and views
